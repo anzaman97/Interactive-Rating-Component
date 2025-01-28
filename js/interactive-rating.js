@@ -16,7 +16,7 @@ const ratingBtns = document.querySelectorAll('.rating-btn')
 //dynamic number
 let ratingScore = document.querySelector('.dynamic-number')
 
-// defauilt score
+// default score
 let defaultScore = 0;
 
 //event listeners
